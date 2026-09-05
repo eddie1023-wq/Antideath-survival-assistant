@@ -39,6 +39,8 @@
   "asa.config.all.comment.enableTabFilter-Prefix": " ",
   "asa.config.all.name.tabFilterPrefix": "TAB菜单过滤器-前缀",
   "asa.config.all.comment.tabFilterPrefix": " ",
+  "asa.config.all.name.spectatorTeleportBotFilter": "旁观传送过滤假人",
+  "asa.config.all.comment.spectatorTeleportBotFilter": "在旁观模式的玩家传送菜单中隐藏名称以 bot_ 开头的玩家",
   "asa.config.all.name.openFakeFetchGui": "打开假人取货菜单",
   "asa.config.all.comment.openFakeFetchGui": "打开假人取货菜单",
   "asa.config.all.name.fakeFetchSupport": "假人远程取货支持",
